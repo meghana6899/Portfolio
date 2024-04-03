@@ -1,7 +1,7 @@
 import React from 'react';
 import './about.css';
 import AboutImg from '../../assets/MyImage.jpg'
-import CV from '../../assets/Sai-Meghana-Vemula-FlowCV-Resume-20240311 (1) (1).pdf'
+import CV from '../../assets/Sai_Meghana_resume__new.pdf'
 
 
 
