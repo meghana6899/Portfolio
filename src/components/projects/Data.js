@@ -6,7 +6,7 @@ import fascio from '../../assets/fascio.JPG';
 import card from '../../assets/card.JPG';
 import parallax from '../../assets/parallax.JPG';
 import readinglist from '../../assets/readinglist.JPG';
-import Shopit from '../assets/Shopit.JPG';
+import Shopit from '../../assets/Shopit.JPG';
 
 const data = [
      {
