@@ -32,7 +32,7 @@ const data = [
         name: `Image Searcher`,
         img: `${search}`,
         description: `This website can fetch images for you using API. Axios library is used to make HTTP requests.`,
-        href:  `https://imagesearcher-qdprszixd-meghana6899s-projects.vercel.app/`
+        href:  `https://imagesearcher-4u2pk63xl-meghana6899s-projects.vercel.app/`
     },
     {
         name: `To-Do List`,
