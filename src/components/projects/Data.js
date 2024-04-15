@@ -18,7 +18,7 @@ const data = [
     {
         name: `Reading List`,
         img: `${readinglist}`,
-        description: `This project can persist the list of books using an outside API. It also creates, edits, deletes books.`,
+        description: `Reading List is a website in which you can add, delete a book, and edit book title.`,
         href:  `https://books-eight-gamma.vercel.app/ `
     },
        
