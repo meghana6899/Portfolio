@@ -5,7 +5,7 @@ import todo from '../../assets/todo.JPG'
 import fascio from '../../assets/fascio.JPG';
 import card from '../../assets/card.JPG';
 import parallax from '../../assets/parallax.JPG';
-import readinglist from '../../assets/readinglist.JPG';
+// import readinglist from '../../assets/readinglist.JPG';
 import Shopit from '../../assets/Shopit.JPG';
 
 const data = [
@@ -15,12 +15,12 @@ const data = [
         description: `ShopIt is an E-commerce website for selling clothes.`,
         href:  `https://shopit-eta.vercel.app/ `
     },
-    {
-        name: `Reading List`,
-        img: `${readinglist}`,
-        description: `This project can persist the list of books using an outside API. It also creates, edits, deletes books.`,
-        href:  `https://readinglist-two.vercel.app/ `
-    },
+    // {
+    //     name: `Reading List`,
+    //     img: `${readinglist}`,
+    //     description: `This project can persist the list of books using an outside API. It also creates, edits, deletes books.`,
+    //     href:  `https://readinglist-two.vercel.app/ `
+    // },
        
     {
         name: `AnimalLove`,
